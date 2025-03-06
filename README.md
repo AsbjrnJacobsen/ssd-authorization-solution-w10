@@ -15,7 +15,7 @@ http://localhost:5171/api/Article
 Create the following key and values, in the header section:    
 CASE SENSITIVE - Has to be EXACT match.     
 Like this:  
-![img.png](img.png)     
+![img.png](./images/img.png)     
 Note: This is a POST method.    
 key: ``X-User`` value: ``writer``   
 key: ``X-Roles`` value: ``Writer``      
