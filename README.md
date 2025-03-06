@@ -3,6 +3,7 @@
 Starter project for authorization workshop.
 
 ## Getting started
+Open terminal and type in:    
 
 ```sh
 dotnet run
